@@ -1,4 +1,4 @@
 # prueba1.1
 prueba
 
-hola este es el trebajo de wilson y jhonel
+hola este es el trabajo de wilson y jhonel
